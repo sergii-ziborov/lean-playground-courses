@@ -1,0 +1,9 @@
+Copyright (c) 2026 Sergii Ziborov. All rights reserved.
+
+The course packs in the releases of this repository are published so that the
+Lean Playground app can download them. They may be downloaded and used with
+that app. Copying, redistributing, or publishing them elsewhere, in whole or
+in part, needs written permission from the copyright holder.
+
+The short Lean code examples in the lessons may be used freely in your own
+programs and proofs.
