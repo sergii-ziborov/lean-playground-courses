@@ -2,7 +2,7 @@
 
 Course packs for the Lean Playground app on iPhone and iPad.
 
-The app ships modules 1 and 2. Modules 3 to 9 are downloaded from the releases
+The app ships modules 1 and 2. Modules 3 to 13 are downloaded from the releases
 of this repository once and then work offline.
 
 | Pack | Modules | Lessons |
@@ -14,6 +14,10 @@ of this repository once and then work offline.
 | verification | 7 | 5 |
 | review | 8 | 5 |
 | practice | 9 | 5 |
+| logic | 10 | 5 |
+| discrete | 11 | 5 |
+| functional | 12 | 5 |
+| ai | 13 | 5 |
 
 ## How the app checks a download
 
