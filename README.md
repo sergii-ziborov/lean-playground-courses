@@ -36,6 +36,14 @@ Each release holds the catalog and the packs it lists. The app reads
 in use. A pack keeps its file name for a given version, so an older catalog
 still points to files that exist.
 
+## Support and legal
+
+- Support: [English](Legal/en/support.md) · [Русский](Legal/ru/support.md)
+- Privacy Policy: [English](Legal/en/privacy.md) · [Русский](Legal/ru/privacy.md)
+- Terms of Use: [English](Legal/en/terms.md) · [Русский](Legal/ru/terms.md)
+
+The same pages are in the app, under About and licenses.
+
 ## Licence
 
 The lessons are part of Lean Playground. Copyright 2026 Sergii Ziborov. All
