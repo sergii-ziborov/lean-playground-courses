@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Version: 25 November 2026. Lean Playground is published by Serhii Ziborov. Contact: sergii.ziborov@gmail.com.
+Version: 26 November 2026. Lean Playground is published by Serhii Ziborov. Contact: sergii.ziborov@gmail.com.
 
 ## In short
 
@@ -9,8 +9,10 @@ Lean Playground has no account, no advertising, no analytics and no tracking. Le
 ## What stays on your device
 
 - Your Lean files, lesson attempts and the results of their last check.
+- Your projects, and the GitHub address a project was imported from.
 - Your progress in lessons, flashcards and labs.
 - The course packs you download.
+- Mathlib basics, if you download it.
 - Settings such as the code font size, line wrapping and recent searches.
 - How long Lean takes to start on your device, used to show an estimate while it prepares.
 
@@ -18,7 +20,7 @@ This lives in the app's storage on your device and in your device backups, if yo
 
 ## Network
 
-The app goes online only to fetch the course catalog and the course packs you choose to download. They are public files on GitHub. The requests carry no account, no identifier and none of your data. Like any website, GitHub receives your IP address and basic request details when it serves the files; GitHub's privacy statement applies to that: <https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>. Everything else works offline.
+The app goes online only when you ask it to: to fetch the course catalog and the course packs you open, to download Mathlib basics, and to import from GitHub the link you paste. The catalog, the packs and Mathlib basics are public files on GitHub; an import downloads only the public repository, folder, file or gist you chose, from GitHub. The requests carry no account, no identifier and none of your data. Like any website, GitHub receives your IP address and basic request details when it serves the files; GitHub's privacy statement applies to that: <https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>. Everything else works offline.
 
 ## Files you share
 
