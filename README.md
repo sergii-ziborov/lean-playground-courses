@@ -45,6 +45,16 @@ mathematics and functional programming after induction). Builds before it read
 `catalog.v1.json`; every later release carries the last v1 catalog unchanged,
 so those builds keep the packs and module numbers they were made for.
 
+### Mathlib basics
+
+`mathlib-basics-1` is not a course release and is never marked latest. It holds
+one AppleArchive with compiled `.olean` files of a part of Mathlib and the
+libraries it is built on, made for the Lean inside Lean Playground 0.2 (8) and
+later. The app pins the archive's size and SHA-256 in its own bundle, so it
+downloads exactly this file. Every included library is under the Apache
+License 2.0; their licences and a NOTICE are in the archive's `LICENSES`
+folder. A new Lean in the app means a new release, `mathlib-basics-2`.
+
 ## Support and legal
 
 - Support: [English](Legal/en/support.md) · [Русский](Legal/ru/support.md)
